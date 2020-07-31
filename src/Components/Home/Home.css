@@ -1,0 +1,18 @@
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+@media (max-width: 925px) {
+    .box {
+      display: block !important;
+    }
+    .h1 {
+        font-size: 15px;
+    }
+    .h2{
+        font-size: 14px;
+    }
+    .p {
+        font-size: 12px;
+    }
+  }

@@ -1,0 +1,19 @@
+.Nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(248, 191, 3);
+    margin-left: 0;
+    margin-top: 0;
+    color: rgb(0, 161, 0);
+}
+
+.Navbar {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    align-items: center;
+    list-style: none;
+    color: rgb(0, 161, 0);
+    font-size: 17px;
+    font-weight: bold;
+}
